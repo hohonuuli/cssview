@@ -1,6 +1,6 @@
 # cssview
 
-An app that wraps ShowcaseFX. ShowcaseFX is a view that show a preview of your JavaFX css file applied to all JavafX controls.
+An app that wraps [ShowcaseFX](https://github.com/dlsc-software-consulting-gmbh/ShowcaseFX) as an app. ShowcaseFX is a view that show a preview of your JavaFX css file applied to all JavafX controls.
 
 ## Usage
 
