@@ -1,4 +1,4 @@
-package com.github.hohonuuli;
+package com.github.hohonuuli.cssview;
 
 public class SystemInfo {
 
